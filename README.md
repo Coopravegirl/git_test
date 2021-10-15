@@ -1,0 +1,1 @@
+This is Coop's first git project!
